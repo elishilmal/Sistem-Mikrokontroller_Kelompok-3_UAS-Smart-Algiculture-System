@@ -213,6 +213,10 @@ Dengan adanya sistem ini, pengguna dapat mengetahui potensi banjir lebih cepat d
 | <img src="Assets/kerkom1.gif" width="350"> | <img src="Assets/kerkom2.gif" width="350"> | <img src="Assets/kerkom3.gif" width="350"> |
 
 ### 🎥 Finish Project
+| Kerja Kelompok 1 | Kerja Kelompok 2 |
+|:----------------:|:----------------:|
+| <img src="Assets/finishproject1.gif" width="350"> | <img src="Assets/finishproject2.gif" width="350"> |
+
 
 ### 🎥 Website
 
