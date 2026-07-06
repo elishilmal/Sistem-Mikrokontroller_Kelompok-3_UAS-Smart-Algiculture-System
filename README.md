@@ -220,5 +220,5 @@ Dengan adanya sistem ini, pengguna dapat mengetahui potensi banjir lebih cepat d
 
 ### 🎥 Website
 | Website Monitoring |
-|:----------------:|
-| <img src="Assets/website.gif" width="350"> |
+|:----------------:|:----------------:|
+| <img src="Assets/website.gif" width="350"> |<img src="Assets/website2.gif" width="350"> |
